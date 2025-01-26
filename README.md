@@ -1,5 +1,5 @@
 # Technics SL-1350 Rebuild
-Consolidated documentation of a Technics SL-1350 turntable rebuild.  This is a non-code project focused on documentation, methods, tools, and parts needed to revitalize a Technics SL-1350. Some content points to prior rebuild of a [Sansui AU-717](https://github.com/Crumbs350/Sansui-AU-717-Rebuild). Documentation generated during my journey to rebuild this classic turntable with the help of the Audiokarma.org community and broader web resources.
+Consolidated documentation of a Technics SL-1350 turntable rebuild.  This is a non-code project focused on documentation, methods, tools, and parts needed to revitalize a Technics SL-1350. Some content points to prior rebuild of a [Sansui AU-717](https://github.com/Crumbs350/Sansui-AU-717-Rebuild). Documentation generated during my journey to rebuild this classic turntable with the help of the Audiokarma.org community and broader web resources. [Audiokarma thread](https://audiokarma.org/forums/index.php?threads/technics-sl-1350-rebuild-thread.1076778/)
 
 # Repository Index
 
