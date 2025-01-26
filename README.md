@@ -300,6 +300,11 @@ flip ... use box or
    3. at false bottom point the screw will have significant horizontal motion if moved with screw driver
    4. tighten past the mobile point to real tight point but do NOT over-tighten
 
+### Surprises
+* extra glued 3.9 kOhm resistor across D3 and D4
+* C4 marked as 1 uF is actually 2.2 uF
+* C6 schematic and parts list says 0.01, but circuit board says 0.1 uF, part not replaced, only noted
+
 ### Things to Consider
 
 * Pay attention to vibration and heat sensitive part instructions
