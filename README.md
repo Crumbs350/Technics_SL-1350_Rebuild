@@ -246,11 +246,13 @@ Consolidation of specific how tos representative in whole (or part) of what I di
 * Put electrical tape on metal frame above 1 tall replacement capacitor that would be near the metal frame
 
 ### How I Did It
-1. prepare to flip 
+1. prepare to flip (the SL-1300 manual has instructions)
    1. Remove dustcover
-   2. Remove arm weight (required) and cartridge (just because not required)
-   3. Lock the arm and to be sure could use bread ties to really lock in place
-   4. Remove rotating platter if using support option 1 by pulling up (I taped down paper to provide extra magnetic material shield)
+   2. Remove arm balance weight (required) by turning clockwise to back off and cartridge (just because not required)
+   3. Lock the tone arm and to be sure could use bread ties to tie in place
+   4. Remove rotating platter if using support option 1 by
+      1. removing spindle
+      2. pulling up (I taped down paper to provide extra magnetic material shield) on the platter after revealing adjust screw holes under mat
 1. create support ... supporting upside down unit
    1. The manual says you can support on the dust cover, but it is both old and unobtainable now so much safer to not do that (others say it breaks)
    2. 2 options: create a wide support, or use a cardboard box
@@ -268,7 +270,7 @@ Consolidation of specific how tos representative in whole (or part) of what I di
       3. the turntable sits on the platter so don't remove it
 flip ... use box or 
 1. Removed bottom
-   1. to remove the bottom you must remove all the red arrow marked screws <img src="pictures/img_20250103_170822_974.bottom_marked.jpg" alt="bottom screws marked" width="300">
+   1. to remove the bottom you must remove all the red arrow marked screws using a lightly magnetic screwdriver <img src="pictures/img_20250103_170822_974.bottom_marked.jpg" alt="bottom screws marked" width="300">
    2. the 5 long screws in the center
    3. 6 outer short screws
    4. the bottom cover just pops off after that
